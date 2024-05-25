@@ -31,7 +31,7 @@ Make sure you have Node.js and npm installed on your machine.
 
     Install NPM packages
 
-npm install
+   npm install
 
 Start the development server
 
@@ -41,7 +41,7 @@ Building for Production
 
 To create a production build, run:
 
-npm run build
+      npm run build
 
 Deployment
 
@@ -84,7 +84,7 @@ Contact
 
 Sabareesh - sabareeshs363@gmail.com
 
-Project Link: [https://github.com/your-username/custom-dashboard](https://github.com/UptimeCoding/dashboard-tailwind-vite)
+Project Link: [https://github.com/UptimeCoding/dashboard-tailwind-vite](https://github.com/UptimeCoding/dashboard-tailwind-vite)
 
 typescript
 
