@@ -31,21 +31,15 @@ Make sure you have Node.js and npm installed on your machine.
 
     Install NPM packages
 
-    sh
-
 npm install
 
 Start the development server
-
-sh
 
     npm run dev
 
 Building for Production
 
 To create a production build, run:
-
-sh
 
 npm run build
 
